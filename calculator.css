@@ -5,10 +5,17 @@ body {
   height: 100vh;
   background: #f0f0f0;
 }
+.head{
+  color: blue;
+  width: ;
+}
 .calculator {
-  background: #fff;
+  background: #1bca15;
   padding: 20px;
   border-radius: 10px;
+  width: 45%;
+
+  margin: 0 auto;
   box-shadow: 0 0 10px #aaa;
 }
 #display {
@@ -16,6 +23,7 @@ body {
   height: 40px;
   margin-bottom: 10px;
   font-size: 1.5em;
+  color: rgb(3, 3, 3);
   text-align: right;
   padding: 5px;
 }
